@@ -1,0 +1,5 @@
+ssh bandit9@bandit.labs.overthewire.org -p 2220
+
+grep -a -E '^=+' data.txt
+
+FGUW5ilLVJrxX9kMYMmlN4MgbpfMiqey

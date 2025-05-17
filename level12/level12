@@ -1,0 +1,11 @@
+ssh bandit12@bandit.labs.overthewire.org -p 2220
+
+file -> vefifica o tipo do arquivo
+xxd -r -> reverte hexdump
+xxd -r -p -> reverte hexdump 'puro'
+gunzip -> desfaz compressão de arquivo gz
+gunzip2 -> desfaz compressão de arquivo gz2
+tar -tvf -> verifica o conteúdo do tarball
+tar -xvf -> decomprime o tarball
+
+FO5dwFsc0cbaIiH0h8J2eUks2vdTDwAn

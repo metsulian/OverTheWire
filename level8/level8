@@ -1,0 +1,7 @@
+ssh bandit8@bandit.labs.overthewire.org -p 2220
+
+sort data.tx | uniq -u
+
+4CKMh1JI91bUIZZPXDqGanal4xvAg0JM
+
+

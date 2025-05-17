@@ -1,0 +1,5 @@
+ssh bandit7@bandit.labs.overthewire.org -p 2220
+
+grep -o -P 'millionth\s+\K\w+' data.txt
+
+dfwvzFQi4mU0wfNbFOe9RoWskMLg7eEc
